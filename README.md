@@ -8,7 +8,7 @@ Download MySQL Server and Workbench. Save root password
 Create table and name it
 
 ### Step 3
-enter root password and table name in upwork.py script
+change root password and database name in pipeline.py 
 
 ### Step 4
 Run the script by the following command
